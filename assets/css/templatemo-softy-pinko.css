@@ -320,6 +320,22 @@ position: relative;
   transition: all 0.3s ease 0s;
 }
 
+a.app-button-slider {
+  position: relative;
+      font-family: "Raleway", sans-serif;
+    font-size: 1rem;
+    border-radius: 20px;
+    padding: 12px 20px;
+    background-color: #64dcdc;
+    text-transform: uppercase;
+    color: #fff;
+    letter-spacing: 1px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+  }
+
 a.main-button-slider:hover {
   background-color: #8261ee;
 }
